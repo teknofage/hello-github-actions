@@ -1,4 +1,4 @@
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/teknofage/hello-github-actions/A-workflow-for-my-Hello-World-file)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/teknofage/hello-github-actions/A%20workflow%20for%20my%20Hello%20World%20file)
 
 ## Welcome to "Hello World" with GitHub Actions
 
